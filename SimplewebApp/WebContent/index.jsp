@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi manik...
-you are building web application.
-work hard u will definetly reach ur goal.. 
+<b>Hi manik...</b>
+you are building web application.<br/>
+work hard and u will definetly reach ur goal..
+be confident ,focus on what you are doing... 
 </body>
 </html>
